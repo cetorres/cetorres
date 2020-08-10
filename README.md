@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on maps applications and SDKs at [NeoTreks](https://neotreks.com) and some other personal mobile app projects.
 - 🧑🏼‍💻 My past work can be found at [Cacira](https://cacira.com).
 - 🌱 I’m currently learning everything I can! 🤣
-- 👯 I’m looking to collaborate on mobile apps development
+- 👯 I’m looking to collaborate on mobile apps development.
 - 🥅 2020 goals: contribute more to open source projects.
 - 💬 Ask me about anything.
 - ⚡ Fun facts: I love to play guitar, drums and World of Warcraft in my free time.
