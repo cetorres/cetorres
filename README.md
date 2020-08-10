@@ -1,7 +1,6 @@
 ### Hi there, I'm Carlos 👋
 
-|<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=238JE4JGG8QGG&source=url" target="_blank"><img alt="Donate" border="0" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif"></a>|<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=238JE4JGG8QGG&source=url" target="_blank">Buy me a coffee.</a>|
-|--|--|
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=238JE4JGG8QGG&source=url" target="_blank"><img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-yellow.svg" alt="Donate - Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 ## I'm a husband, software engineer, computer geek and a [spiritist](https://www.spiritist.us/spiritism)!
 - 🔭 I’m currently working on maps applications and SDKs at [NeoTreks](https://neotreks.com) and some other personal mobile app projects.
