@@ -2,6 +2,7 @@
 
 ## I'm a husband, software engineer, computer geek and a [spiritist](https://www.spiritist.us/spiritism)!
 - 🔭 I’m currently working on maps applications and SDKs at [NeoTreks](https://neotreks.com) and some other personal mobile app projects.
+- 🧑🏼‍💻 My past work can be found at [Cacira](https://cacira.com).
 - 🌱 I’m currently learning everything I can! 🤣
 - 👯 I’m looking to collaborate on mobile apps development
 - 🥅 2020 goals: contribute more to open source projects.
