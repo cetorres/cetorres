@@ -16,6 +16,13 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/cetorres)
 <br />
 
+## My interests
+
+- Mobile app development using [Flutter](https://flutter.dev) and Swift (iOS native).
+- Agile project management.
+- Full stack development with Node.JS, HTML, JS, CSS, [Svelte](https://svelte.dev) and [Sapper](https://sapper.svelte.dev).
+- Databases like MySQL, Postgres and MongoDB.
+
 ## My Github stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=cetorres&show_icons=true&theme=default" />
