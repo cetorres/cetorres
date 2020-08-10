@@ -8,13 +8,13 @@
 - 💬 Ask me about anything.
 - ⚡ Fun facts: I love to play guitar, drums and World of Warcraft in my free time.
 
-### Connect with me
+## Connect with me
 
 [<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://cetorres.com)
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/cetorres)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/cetorres)
 <br />
 
-### My Github stats
+## My Github stats
 
-![My Github stats](https://github-readme-stats.vercel.app/api?username=cetorres&show_icons=true&theme=default)
+<img src="https://github-readme-stats.vercel.app/api?username=cetorres&show_icons=true&theme=default" />
