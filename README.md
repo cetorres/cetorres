@@ -7,7 +7,7 @@
 - 🧑🏼‍💻 My past work can be found at [Cacira](https://cacira.com).
 - 🌱 I’m currently learning everything I can! 🤣
 - 👯 I’m looking to collaborate on mobile apps development.
-- 🥅 2020 goals: contribute more to open source projects.
+- 🥅 2021 goals: contribute more to open source projects.
 - 💬 Ask me about anything.
 - ⚡ Fun facts: I love to play guitar, drums and World of Warcraft in my free time.
 
