@@ -3,7 +3,7 @@
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=238JE4JGG8QGG&source=url" target="_blank"><img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-yellow.svg" alt="Donate - Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 ## I'm a husband, software engineer, computer geek and a [spiritist](https://www.spiritist.us/spiritism)!
-- 🔭 I’m currently working on maps applications and SDKs at [NeoTreks](https://neotreks.com) and some other personal mobile app projects.
+- 🔭 I’m currently working as a Principal Software Engineer on the Oracle Data Cloud team at [Oracle](https://oracle.com) and some other personal apps projects.
 - 🧑🏼‍💻 My past work can be found at [Cacira](https://cacira.com).
 - 🌱 I’m currently learning everything I can! 🤣
 - 👯 I’m looking to collaborate on mobile apps development.
