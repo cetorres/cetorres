@@ -15,8 +15,8 @@
 ## Connect with me
 
 [<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://cetorres.com)
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/cetorres)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/cetorres)
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/cetorres)
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/cetorres)
 <br />
 
 ## My interests
@@ -25,7 +25,7 @@
 - Agile project management.
 - Full stack development with Node.JS, HTML, JS, CSS, [Svelte](https://svelte.dev), and Preact.
 - Databases like MySQL, Postgres and MongoDB.
-- Self-improvement and self-knowledge through [Spiritism](https://spiritist.us/get-to-know-spiritim/)
+- Self-improvement and self-knowledge through [Spiritism](https://spiritist.us/get-to-know-spiritim/).
 
 ## My Github stats
 
