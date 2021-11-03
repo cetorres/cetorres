@@ -3,13 +3,15 @@
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=238JE4JGG8QGG&source=url" target="_blank"><img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-yellow.svg" alt="Donate - Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 ## I'm a husband, software engineer, computer geek and a [spiritist](https://www.spiritist.us/spiritism)!
-- 🔭 I’m currently working as a Principal Software Engineer on the Oracle Data Cloud team at [Oracle](https://oracle.com) and some other personal apps projects.
-- 🧑🏼‍💻 My past work can be found at [Cacira](https://cacira.com).
+- 👨🏼‍💻 I'm currently working as a Principal Software Engineer on the Oracle Advertising team at [Oracle](https://oracle.com) and some other personal apps projects.
+- 🎓 I'm also pursuing my PhD in Computer Science at [UCCS](https://uccs.edu) starting on Fall 2021.
+- 💾 My past work can be found at [Cacira](https://cacira.com).
 - 🌱 I’m currently learning everything I can! 🤣
 - 👯 I’m looking to collaborate on mobile apps development.
 - 🥅 2021 goals: contribute more to open source projects.
 - 💬 Ask me about anything.
 - ⚡ Fun facts: I love to play guitar, drums and World of Warcraft in my free time.
+- 👻 I'm also a [Spiritist](https://spiritist.us/get-to-know-spiritim/).
 
 ## Connect with me
 
@@ -22,7 +24,7 @@
 
 - Mobile app development using [Flutter](https://flutter.dev) and Swift (iOS native).
 - Agile project management.
-- Full stack development with Node.JS, HTML, JS, CSS, [Svelte](https://svelte.dev) and [Sapper](https://sapper.svelte.dev).
+- Full stack development with Node.JS, HTML, JS, CSS, [Svelte](https://svelte.dev), and Preact.
 - Databases like MySQL, Postgres and MongoDB.
 
 ## My Github stats
