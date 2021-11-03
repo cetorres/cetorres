@@ -11,7 +11,6 @@
 - 🥅 2021 goals: contribute more to open source projects.
 - 💬 Ask me about anything.
 - ⚡ Fun facts: I love to play guitar, drums and World of Warcraft in my free time.
-- 👻 I'm also a [Spiritist](https://spiritist.us/get-to-know-spiritim/).
 
 ## Connect with me
 
@@ -26,6 +25,7 @@
 - Agile project management.
 - Full stack development with Node.JS, HTML, JS, CSS, [Svelte](https://svelte.dev), and Preact.
 - Databases like MySQL, Postgres and MongoDB.
+- Self-improvement and self-knowledge through [Spiritism](https://spiritist.us/get-to-know-spiritim/)
 
 ## My Github stats
 
