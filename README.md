@@ -4,8 +4,8 @@
 
 ## I'm a husband, software engineer, computer geek and a [spiritist](https://www.spiritist.us/spiritism)!
 - 👨🏼‍💻 I'm currently working as a Principal Software Engineer on the Oracle Advertising team at [Oracle](https://oracle.com) and some other personal apps projects.
-- 🎓 I'm also pursuing my PhD in Computer Science at [UCCS](https://uccs.edu) starting on Fall 2021.
-- 💾 My past work can be found at [Cacira](https://cacira.com).
+- 🎓 I'm also pursuing my PhD in Computer Science at [UCCS](https://uccs.edu) started on Fall 2021.
+- 💾 My past work can be found at [NeoTreks](https://neotreks.com) and [Cacira](https://cacira.com).
 - 🌱 I’m currently learning everything I can! 🤣
 - 👯 I’m looking to collaborate on mobile apps development.
 - 🥅 2021 goals: contribute more to open source projects.
