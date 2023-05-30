@@ -34,11 +34,17 @@
 
 ## My interests
 
+- AI/ML research and development.
+- Full stack development with Node.JS, Python, React, Solid, Svelte, HTML, JS, CSS.
 - Mobile app development using [Flutter](https://flutter.dev) and Swift (iOS native).
 - Agile project management.
-- Full stack development with Node.JS, Python, HTML, JS, CSS, React, and Svelte.
 - Databases like MySQL, Postgres and MongoDB.
 - Self-improvement and self-knowledge through [Spiritism](https://spiritist.us/get-to-know-spiritim/).
+
+## Gists
+
+- [Python TinyDB OCI custom storage](https://gist.github.com/cetorres/044e6c8760b17525e6b5665aced474e3)
+- [Bun with SolidJS](https://gist.github.com/cetorres/53030e8044fe235e0d9b0c9a68a4f8d0)
 
 ## My Github stats
 
