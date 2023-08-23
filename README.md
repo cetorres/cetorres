@@ -1,6 +1,6 @@
 ### Hi there, I'm Carlos 👋
 
-<a href="https://www.paypal.com/donate/?business=69J4WDRBBXTM4&no_recurring=0&item_name=I%27m+a+software+engineer%2C+AI%2FML+researcher%2C+and+open-source+contributor.+If+you+like+my+work+consider+donating.+Thanks.&currency_code=USD" target="_blank"><img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-yellow.svg" alt="Donate - Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+<a title="Donate if you like work" href="https://www.paypal.com/donate/?business=69J4WDRBBXTM4&no_recurring=0&item_name=I%27m+a+software+engineer%2C+AI%2FML+researcher%2C+and+open-source+contributor.+If+you+like+my+work+consider+donating.+Thanks.&currency_code=USD" target="_blank"><img src="paypal-button.png" alt="Donate" width="120"></a>
 
 ## I'm a software engineer, researcher, computer geek and a [spiritist](https://www.spiritist.us/spiritism)!
 - 👨🏼‍💻 I'm currently working as a Principal Software Engineer on the Oracle Advertising team at [Oracle](https://oracle.com) and some other personal apps projects.
