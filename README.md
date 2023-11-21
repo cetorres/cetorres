@@ -2,7 +2,7 @@
 
 <a title="Donate if you like work" href="https://www.paypal.com/donate/?business=69J4WDRBBXTM4&no_recurring=0&item_name=I%27m+a+software+engineer%2C+AI%2FML+researcher%2C+and+open-source+contributor.+If+you+like+my+work+consider+donating.+Thanks.&currency_code=USD" target="_blank"><img src="paypal-button.png" alt="Donate" width="120"></a>
 
-## I'm a software engineer, researcher, computer geek and a [spiritist](https://www.spiritist.us/spiritism)!
+## I'm a software engineer, researcher, computer geek, and a [spiritist](https://www.spiritist.us/spiritism)!
 - 👨🏼‍💻 I'm currently working as a Principal Software Engineer on the Oracle Advertising team at [Oracle](https://oracle.com) and some other personal apps projects.
 - 🎓 I'm also pursuing my PhD in Computer Science at [UCCS](https://uccs.edu) started on Fall 2021.
 - 💾 My past work can be found at [NeoTreks](https://neotreks.com) and [Cacira](https://cacira.com).
@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on mobile apps development.
 - 🥅 2021 goals: contribute more to open source projects.
 - 💬 Ask me about anything.
-- ⚡ Fun facts: I love to play guitar, drums and World of Warcraft in my free time.
+- ⚡ Fun facts: I love to play guitar, drums, and World of Warcraft in my free time.
 
 ## Open-source research projects
 
@@ -19,6 +19,7 @@
 
 ## Other open-source projects
 
+- [go-health-check - Website health checker written in Go](https://github.com/cetorres/go-health-check)
 - [TabNews (tabnews.com.br) CLI made with Go](https://github.com/cetorres/tn-cli)
 - [dropdown_formfield: Flutter package](https://github.com/cetorres/dropdown_formfield)
 - [multiselect_formfield: Flutter package](https://github.com/cetorres/multiselect_formfield)
@@ -38,7 +39,7 @@
 - Full stack development with Node.JS, Python, React, Solid, Svelte, HTML, JS, CSS.
 - Mobile app development using [Flutter](https://flutter.dev) and Swift (iOS native).
 - Agile project management.
-- Databases like MySQL, Postgres and MongoDB.
+- Databases like MySQL, Postgres, and MongoDB.
 - Self-improvement and self-knowledge through [Spiritism](https://spiritist.us/get-to-know-spiritim/).
 
 ## Gists
