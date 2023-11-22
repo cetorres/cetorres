@@ -16,6 +16,11 @@
 
 - [ACSP4HR - SPDS (Secure and Privacy-Preserving Data Sharing for Data Science Computations)](https://github.com/cetorres/acsp4hr_project)
 - [Final project demo of the CS 5920 class. Title: Homomorphic Encryption: What Is It and How Can It Help Secure Healthcare Systems](https://github.com/cetorres/cs5920-project-demo)
+- Reinforcement learning projects
+  - [reinforcement_learning_maze_agent](https://github.com/cetorres/reinforcement_learning_maze_agent)
+  - [reinforcement_learning_parking_lot_ql](https://github.com/cetorres/reinforcement_learning_parking_lot_ql)
+  - [reinforcement_learning_parking_lot_dql](https://github.com/cetorres/reinforcement_learning_parking_lot_dql)
+  - [reinforcement_learning_final_project](https://github.com/cetorres/reinforcement_learning_final_project)
 
 ## Other open-source projects
 
