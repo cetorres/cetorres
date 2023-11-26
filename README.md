@@ -24,6 +24,7 @@
 
 ## Other open-source projects
 
+- [Wordle results - A simple app to help you store your Wordle or Nerdle game results history](https://github.com/cetorres/wordle-results)
 - [go-health-check - Website health checker written in Go](https://github.com/cetorres/go-health-check)
 - [TabNews (tabnews.com.br) CLI made with Go](https://github.com/cetorres/tn-cli)
 - [dropdown_formfield: Flutter package](https://github.com/cetorres/dropdown_formfield)
