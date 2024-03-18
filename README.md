@@ -24,6 +24,7 @@
 
 ## Other open-source projects
 
+- [Weather - A weather app made in Flutter using Open Meteo (https://open-meteo.com/) API.](https://github.com/cetorres/weather-app)
 - [weather - A simple terminal command made in Go to get the current weather conditions](https://github.com/cetorres/weather)
 - [Wordle results - A simple app to help you store your Wordle or Nerdle game results history](https://github.com/cetorres/wordle-results)
 - [go-health-check - Website health checker written in Go](https://github.com/cetorres/go-health-check)
