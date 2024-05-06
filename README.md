@@ -33,6 +33,7 @@
 - [dropdown_formfield: Flutter package](https://github.com/cetorres/dropdown_formfield)
 - [multiselect_formfield: Flutter package](https://github.com/cetorres/multiselect_formfield)
 - [jpeg-hide: Python 3 program to hide text into JPEG images](https://github.com/cetorres/jpeg-hide)
+- [JavaScript demos](https://github.com/cetorres/javascript)
 - [Drawing the Sierpinski triangle in JavaScript and HTML Canvas](https://github.com/cetorres/sierpinski-triangle-js)
 
 ## Connect with me
