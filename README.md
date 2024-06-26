@@ -24,6 +24,7 @@
 
 ## Other open-source projects
 
+- [text_compress - A simple text compression command line tool made in Swift](https://github.com/cetorres/text_compress)
 - [Weather - A weather app made in React Native using Open Meteo API.](https://github.com/cetorres/weather-app-rn)
 - [Weather - A weather app made in Flutter using Open Meteo API.](https://github.com/cetorres/weather-app)
 - [weather - A simple terminal command made in Go to get the current weather conditions](https://github.com/cetorres/weather)
