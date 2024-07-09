@@ -24,6 +24,7 @@
 
 ## Other open-source projects
 
+- [ai-buddy - A terminal command in Go that is an AI tool to help solving problems using a set of crowdsourced AI prompts.](https://github.com/cetorres/ai-buddy)
 - [text_compress - A simple text compression command line tool made in Swift](https://github.com/cetorres/text_compress)
 - [Weather - A weather app made in React Native using Open Meteo API.](https://github.com/cetorres/weather-app-rn)
 - [Weather - A weather app made in Flutter using Open Meteo API.](https://github.com/cetorres/weather-app)
