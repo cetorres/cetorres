@@ -50,7 +50,7 @@
 
 - AI/ML research and development.
 - Full stack development with Node.JS, Python, React, Solid, Svelte, HTML, JS, CSS.
-- Mobile app development using [Flutter](https://flutter.dev) and Swift (iOS native).
+- Mobile app development using [React Native](https://reactnative.dev), [Flutter](https://flutter.dev), and Swift (iOS native).
 - Agile project management.
 - Databases like MySQL, Postgres, and MongoDB.
 - Self-improvement and self-knowledge through [Spiritism](https://spiritist.us/get-to-know-spiritim/).
