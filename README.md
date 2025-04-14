@@ -25,7 +25,7 @@
 ## Other open-source projects
 
 - [aes-gcm - A command-line tool for encrypting and decrypting files using AES-GCM. It supports both key-based and password-based encryption/decryption, as well as streaming for large files.](https://github.com/cetorres/aes-gcm)
-- [USCIS naturalization test practice](https://github.com/cetorres/citizenship-test)
+- [USCIS citizen test - A simple USCIS naturalization practice quiz](https://github.com/cetorres/citizenship-test)
 - [ai-buddy - A terminal command in Go that is an AI tool to help solving problems using prompt engineering from a set of crowdsourced AI prompts.](https://github.com/cetorres/ai-buddy)
 - [text_compress - A simple text compression command line tool made in Swift](https://github.com/cetorres/text_compress)
 - [Weather - A weather app made in React Native using Open Meteo API.](https://github.com/cetorres/weather-app-rn)
