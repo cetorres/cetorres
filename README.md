@@ -60,7 +60,3 @@
 
 - [Python TinyDB OCI custom storage](https://gist.github.com/cetorres/044e6c8760b17525e6b5665aced474e3)
 - [Bun with SolidJS](https://gist.github.com/cetorres/53030e8044fe235e0d9b0c9a68a4f8d0)
-
-## My Github stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=cetorres&show_icons=true&theme=default" />
