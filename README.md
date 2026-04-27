@@ -60,3 +60,8 @@
 
 - [Python TinyDB OCI custom storage](https://gist.github.com/cetorres/044e6c8760b17525e6b5665aced474e3)
 - [Bun with SolidJS](https://gist.github.com/cetorres/53030e8044fe235e0d9b0c9a68a4f8d0)
+
+## Profile views
+
+[![Carlos Eugenio Torres profile views](https://u8views.com/api/v1/github/profiles/533661/views/day-week-month-total-count.svg)](https://u8views.com/github/cetorres)
+<sup>(since 04/27/2026)</sup>
