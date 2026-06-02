@@ -49,7 +49,8 @@
 
 ## My interests
 
-- AI/ML research and development.
+- AI/ML research and engineering.
+- Enterprise architecture, TOGAF.
 - Full stack development with Node.JS, Python, React, Solid, Svelte, HTML, JS, CSS.
 - Mobile app development using [React Native](https://reactnative.dev), [Flutter](https://flutter.dev), and Swift (iOS native).
 - Agile project management.
