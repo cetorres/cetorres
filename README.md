@@ -14,8 +14,8 @@
 
 ## Open-source research projects
 
-- [ACSP4HR - SPDS (Secure and Privacy-Preserving Data Sharing for Data Science Computations)](https://github.com/cetorres/acsp4hr_project)
-- [Final project demo of the CS 5920 class. Title: Homomorphic Encryption: What Is It and How Can It Help Secure Healthcare Systems](https://github.com/cetorres/cs5920-project-demo)
+- [ACSP4HR - SPDS](https://github.com/cetorres/acsp4hr_project) - Secure and Privacy-Preserving Data Sharing for Data Science Computations
+- [Final project demo of the CS 5920 class](https://github.com/cetorres/cs5920-project-demo) - Homomorphic Encryption: What Is It and How Can It Help Secure Healthcare Systems
 - Reinforcement learning projects
   - [Training a maze agent with Q-learning](https://github.com/cetorres/reinforcement_learning_maze_agent)
   - [Training a parking lot agent with Q-learning](https://github.com/cetorres/reinforcement_learning_parking_lot_ql)
