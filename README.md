@@ -1,6 +1,5 @@
 ### Hi there, I'm Carlos 👋
 
-<!--<a title="Donate if you like work" href="https://www.paypal.com/donate/?business=69J4WDRBBXTM4&no_recurring=0&item_name=I%27m+a+software+engineer%2C+AI%2FML+researcher%2C+and+open-source+contributor.+If+you+like+my+work+consider+donating.+Thanks.&currency_code=USD" target="_blank"><img src="paypal-button.png" alt="Donate" width="120"></a>-->
 <a title="Donate if you like work" href="https://www.paypal.com/donate/?business=69J4WDRBBXTM4&no_recurring=0&item_name=I%27m+a+software+engineer%2C+AI%2FML+researcher%2C+and+open-source+contributor.+If+you+like+my+work+consider+donating.+Thanks.&currency_code=USD" target="_blank"><img src="https://img.shields.io/badge/Paypal-donate-gold?logo=paypal" alt="Donate"></a>
 &nbsp; ![GitHub followers](https://img.shields.io/github/followers/cetorres)
 &nbsp; ![GitHub User's stars](https://img.shields.io/github/stars/cetorres)
@@ -63,8 +62,3 @@
 
 - [Python TinyDB OCI custom storage](https://gist.github.com/cetorres/044e6c8760b17525e6b5665aced474e3)
 - [Bun with SolidJS](https://gist.github.com/cetorres/53030e8044fe235e0d9b0c9a68a4f8d0)
-
-## Profile views
-
-[![Carlos Eugenio Torres profile views](https://u8views.com/api/v1/github/profiles/533661/views/day-week-month-total-count.svg)](https://u8views.com/github/cetorres)
-<sup>(since 04/27/2026)</sup>
