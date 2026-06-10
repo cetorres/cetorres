@@ -26,6 +26,7 @@
 
 - [swiftbar-stock-portfolio](https://github.com/cetorres/swiftbar-stock-portfolio) - A SwiftBar/xbar plugin written in Python that displays your stock portfolio directly in the macOS menu bar using real-time data from Yahoo Finance.
 - [aes-gcm](https://github.com/cetorres/aes-gcm) - A command-line tool for encrypting and decrypting files using AES-GCM. It supports both key-based and password-based encryption/decryption, as well as streaming for large files.
+- [TabNews CLI](https://github.com/cetorres/tn-cli) - Terminal based application (TUI) made with Go for the Brazilian news website TabNews (tabnews.com.br).
 - [USCIS citizenship test](https://github.com/cetorres/citizenship-test) - A simple USCIS naturalization practice quiz
 - [ai-buddy](https://github.com/cetorres/ai-buddy) - A terminal command in Go that is an AI tool to help solving problems using prompt engineering from a set of crowdsourced AI prompts.
 - [text_compress](https://github.com/cetorres/text_compress) - A simple text compression command line tool made in Swift.
@@ -34,7 +35,6 @@
 - [weather](https://github.com/cetorres/weather) - A simple terminal command made in Go to get the current weather conditions.
 - [Wordle results](https://github.com/cetorres/wordle-results) - A simple app to help you store your Wordle or Nerdle game results history.
 - [go-health-check](https://github.com/cetorres/go-health-check) - Website health checker written in Go.
-- [TabNews (tabnews.com.br)](https://github.com/cetorres/tn-cli) - CLI made with Go.
 - [dropdown_formfield: Flutter package](https://github.com/cetorres/dropdown_formfield)
 - [multiselect_formfield: Flutter package](https://github.com/cetorres/multiselect_formfield)
 - [jpeg-hide](https://github.com/cetorres/jpeg-hide) - Python 3 program to hide text into JPEG images.
