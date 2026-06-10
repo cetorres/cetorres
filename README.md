@@ -1,8 +1,8 @@
 ### Hi there, I'm Carlos 👋
 
 <a title="Donate if you like work" href="https://www.paypal.com/donate/?business=69J4WDRBBXTM4&no_recurring=0&item_name=I%27m+a+software+engineer%2C+AI%2FML+researcher%2C+and+open-source+contributor.+If+you+like+my+work+consider+donating.+Thanks.&currency_code=USD" target="_blank"><img src="https://img.shields.io/badge/Paypal-donate-gold?logo=paypal" alt="Donate"></a>
-<!--&nbsp; ![GitHub followers](https://img.shields.io/github/followers/cetorres)
-&nbsp; ![GitHub User's stars](https://img.shields.io/github/stars/cetorres)-->
+&nbsp; ![GitHub followers](https://img.shields.io/github/followers/cetorres)
+&nbsp; ![GitHub User's stars](https://img.shields.io/github/stars/cetorres)
 
 ## I'm a software engineer, computer scientist, researcher, geek, and a [spiritist](https://www.spiritist.us/spiritism)!
 - 👨🏼‍💻 I'm currently working as a Principal Member of Technical Staff on Oracle Health's Clinical Digital Assistant team at [Oracle](https://oracle.com) and some other personal apps projects.
