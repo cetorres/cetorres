@@ -26,15 +26,15 @@
 
 ## Other open-source projects
 
-- [swiftbar-stock-portfolio](https://github.com/cetorres/swiftbar-stock-portfolio) - A SwiftBar/xbar plugin written in Python that displays your stock portfolio directly in the macOS menu bar using real-time data from Yahoo Finance.
-- [aes-gcm](https://github.com/cetorres/aes-gcm) - A command-line tool for encrypting and decrypting files using AES-GCM. It supports both key-based and password-based encryption/decryption, as well as streaming for large files.
-- [TabNews CLI](https://github.com/cetorres/tn-cli) - Terminal based application (TUI) made with Go for the Brazilian news website TabNews (tabnews.com.br).
-- [USCIS citizenship test](https://github.com/cetorres/citizenship-test) - A simple USCIS naturalization practice quiz
 - [ai-buddy](https://github.com/cetorres/ai-buddy) - A terminal command in Go that is an AI tool to help solving problems using prompt engineering from a set of crowdsourced AI prompts.
+- [swiftbar-stock-portfolio](https://github.com/cetorres/swiftbar-stock-portfolio) - A SwiftBar/xbar plugin written in Python that displays your stock portfolio directly in the macOS menu bar using real-time data from Yahoo Finance.
+- [TabNews CLI](https://github.com/cetorres/tn-cli) - Terminal based application (TUI) made with Go for the Brazilian news website TabNews (tabnews.com.br).
+- [aes-gcm](https://github.com/cetorres/aes-gcm) - A command-line tool for encrypting and decrypting files using AES-GCM. It supports both key-based and password-based encryption/decryption, as well as streaming for large files.
+- [weather](https://github.com/cetorres/weather) - A simple terminal command made in Go to get the current weather conditions.
 - [text_compress](https://github.com/cetorres/text_compress) - A simple text compression command line tool made in Swift.
 - [Weather](https://github.com/cetorres/weather-app-rn) - A weather app made in React Native using Open Meteo API.
 - [Weather](https://github.com/cetorres/weather-app) - A weather app made in Flutter using Open Meteo API.
-- [weather](https://github.com/cetorres/weather) - A simple terminal command made in Go to get the current weather conditions.
+- [USCIS citizenship test](https://github.com/cetorres/citizenship-test) - A simple USCIS naturalization practice quiz
 - [Wordle results](https://github.com/cetorres/wordle-results) - A simple app to help you store your Wordle or Nerdle game results history.
 - [go-health-check](https://github.com/cetorres/go-health-check) - Website health checker written in Go.
 - [dropdown_formfield: Flutter package](https://github.com/cetorres/dropdown_formfield)
