@@ -28,6 +28,7 @@
 
 - [ai-buddy](https://github.com/cetorres/ai-buddy) - A terminal command in Go that is an AI tool to help solving problems using prompt engineering from a set of crowdsourced AI prompts.
 - [swiftbar-stock-portfolio](https://github.com/cetorres/swiftbar-stock-portfolio) - A SwiftBar/xbar plugin written in Python that displays your stock portfolio directly in the macOS menu bar using real-time data from Yahoo Finance.
+- [microsoft-careers-application-screen-filter](https://github.com/cetorres/microsoft-careers-application-screen-filter) - Adds a new filter for applications on Screen status to the candidate's Microsoft careers applications page.
 - [TabNews CLI](https://github.com/cetorres/tn-cli) - Terminal based application (TUI) made with Go for the Brazilian news website TabNews (tabnews.com.br).
 - [aes-gcm](https://github.com/cetorres/aes-gcm) - A command-line tool for encrypting and decrypting files using AES-GCM. It supports both key-based and password-based encryption/decryption, as well as streaming for large files.
 - [weather](https://github.com/cetorres/weather) - A simple terminal command made in Go to get the current weather conditions.
