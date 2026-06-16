@@ -1,6 +1,7 @@
 # Hi there, I'm Carlos 👋
 
-> **Bridging enterprise system architecture, generative AI, and high-performance mobile applications.**
+> [!NOTE]
+> Bridging enterprise system architecture, generative AI, and high-performance mobile applications.
 
 <a title="Donate if you like my work" href="https://www.paypal.com/donate/?business=69J4WDRBBXTM4&no_recurring=0&item_name=I%27m+a+software+engineer%2C+AI%2FML+researcher%2C+and+open-source+contributor.+If+you+like+my+work+consider+donating.+Thanks.&currency_code=USD" target="_blank"><img src="https://img.shields.io/badge/PayPal%20Donate-003087?logo=paypal&logoColor=fff" alt="Donate"></a>
 <!--&nbsp; ![GitHub followers](https://img.shields.io/github/followers/cetorres)
@@ -51,6 +52,11 @@
 - [JavaScript demos](https://github.com/cetorres/javascript)
 - [Drawing the Sierpinski triangle in JavaScript and HTML Canvas](https://github.com/cetorres/sierpinski-triangle-js)
 
+## Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cetorres&layout=pie)](https://github.com/cetorres)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=cetorres&show_icons=true&rank_icon=percentile&show=prs_merged,discussions_started,prs_merged_percentage)](https://github.com/cetorres)
+
 ## Connect with me
 
 [![X (formerly Twitter) Follow](https://img.shields.io/badge/follow-@cetorres-blue.svg?style=social&logo=x)](https://twitter.com/cetorres)
@@ -61,8 +67,9 @@
 
 - AI/ML research and engineering.
 - Enterprise architecture, TOGAF.
-- Full stack development with Node.JS, Python, React, Solid, Svelte, HTML, JS, CSS.
+- Full stack development with Node.JS, Python, Go, React, Solid, Svelte, HTML, JS, CSS.
 - Mobile app development using [React Native](https://reactnative.dev), [Flutter](https://flutter.dev), and Swift (iOS native).
+- Terminal and CLI development with Go and Python.
 - Agile project management.
 - Databases like MySQL, Postgres, and MongoDB.
 - Self-improvement and self-knowledge through [Spiritism](https://spiritist.us/get-to-know-spiritim/).
