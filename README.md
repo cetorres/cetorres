@@ -1,4 +1,6 @@
-### Hi there, I'm Carlos 👋
+# Hi there, I'm Carlos 👋
+
+> **Bridging enterprise system architecture, generative AI, and high-performance mobile applications.**
 
 <a title="Donate if you like my work" href="https://www.paypal.com/donate/?business=69J4WDRBBXTM4&no_recurring=0&item_name=I%27m+a+software+engineer%2C+AI%2FML+researcher%2C+and+open-source+contributor.+If+you+like+my+work+consider+donating.+Thanks.&currency_code=USD" target="_blank"><img src="https://img.shields.io/badge/PayPal%20Donate-003087?logo=paypal&logoColor=fff" alt="Donate"></a>
 <!--&nbsp; ![GitHub followers](https://img.shields.io/github/followers/cetorres)
@@ -14,7 +16,7 @@
 - 💬 Ask me about anything.
 - ⚡ Fun facts: I love to play guitar, drums, and World of Warcraft in my free time.
 
-## Open-source research projects
+## My open-source research projects
 
 - [ACSP4HR - SPDS](https://github.com/cetorres/acsp4hr_project) - Secure and Privacy-Preserving Data Sharing for Data Science Computations
 - [Final project demo of the CS 5920 class](https://github.com/cetorres/cs5920-project-demo) - Homomorphic Encryption: What Is It and How Can It Help Secure Healthcare Systems
@@ -24,14 +26,20 @@
   - [Training a parking lot agent with Deep Q-learning](https://github.com/cetorres/reinforcement_learning_parking_lot_dql)
   - [Product Recommendation in Online Advertising with Reinforcement Learning](https://github.com/cetorres/reinforcement_learning_final_project)
 
-## Other open-source projects
+## My highlighted open-source projects
 
-- [ai-buddy](https://github.com/cetorres/ai-buddy) - A terminal command in Go that is an AI tool to help solving problems using prompt engineering from a set of crowdsourced AI prompts.
-- [swiftbar-stock-portfolio](https://github.com/cetorres/swiftbar-stock-portfolio) - A SwiftBar plugin written in Python that displays your stock portfolio directly in the macOS menu bar using real-time data from Yahoo Finance.
-- [microsoft-careers-application-screen-filter](https://github.com/cetorres/microsoft-careers-application-screen-filter) - Adds a new filter for applications on Screen status to the candidate's Microsoft careers applications page.
-- [TabNews CLI](https://github.com/cetorres/tn-cli) - Terminal based application (TUI) made with Go for the Brazilian news website TabNews (tabnews.com.br).
-- [aes-gcm](https://github.com/cetorres/aes-gcm) - A command-line tool for encrypting and decrypting files using AES-GCM. It supports both key-based and password-based encryption/decryption, as well as streaming for large files.
-- [weather](https://github.com/cetorres/weather) - A simple terminal command made in Go to get the current weather conditions.
+| Project | Description | Stack |
+| --- | --- | --- |
+| [ai-buddy](https://github.com/cetorres/ai-buddy) | A terminal command in Go that is an AI tool to help solving problems using prompt engineering from a set of crowdsourced AI prompts. | Go, AI APIs, Ollama |
+| [swiftbar-stock-portfolio](https://github.com/cetorres/swiftbar-stock-portfolio) | A SwiftBar plugin written in Python that displays your stock portfolio directly in the macOS menu bar using real-time data from Yahoo Finance. | Python, Swiftbar |
+| [microsoft-careers-application-screen-filter](https://github.com/cetorres/microsoft-careers-application-screen-filter) | Adds a new filter for applications on Screen status to the candidate's Microsoft careers applications page. | JavaScript, Chrome extension |
+| [TabNews CLI](https://github.com/cetorres/tn-cli) | Terminal based application (TUI) made with Go for the Brazilian news website TabNews (tabnews.com.br). | Go, TabNews API |
+| [aes-gcm](https://github.com/cetorres/aes-gcm) | A command-line tool for encrypting and decrypting files using AES-GCM. It supports both key-based and password-based encryption/decryption, as well as streaming for large files. | Go |
+| [weather](https://github.com/cetorres/weather) | A simple terminal command made in Go to get the current weather conditions. | Go, OpenWeatherMap API |
+| [jpeg-hide](https://github.com/cetorres/jpeg-hide) | Python 3 program to hide text into JPEG images. | Python |
+
+## More open-source projects
+
 - [text_compress](https://github.com/cetorres/text_compress) - A simple text compression command line tool made in Swift.
 - [Weather](https://github.com/cetorres/weather-app-rn) - A weather app made in React Native using Open Meteo API.
 - [Weather](https://github.com/cetorres/weather-app) - A weather app made in Flutter using Open Meteo API.
@@ -40,7 +48,6 @@
 - [go-health-check](https://github.com/cetorres/go-health-check) - Website health checker written in Go.
 - [dropdown_formfield: Flutter package](https://github.com/cetorres/dropdown_formfield)
 - [multiselect_formfield: Flutter package](https://github.com/cetorres/multiselect_formfield)
-- [jpeg-hide](https://github.com/cetorres/jpeg-hide) - Python 3 program to hide text into JPEG images.
 - [JavaScript demos](https://github.com/cetorres/javascript)
 - [Drawing the Sierpinski triangle in JavaScript and HTML Canvas](https://github.com/cetorres/sierpinski-triangle-js)
 
