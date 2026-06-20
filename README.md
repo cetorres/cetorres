@@ -8,7 +8,7 @@
 &nbsp; ![GitHub User's stars](https://img.shields.io/github/stars/cetorres)-->
 
 ## I'm a software engineer, computer scientist, researcher, geek, and a [spiritist](https://www.spiritist.us/spiritism)!
-- 👨🏼‍💻 I'm currently working as a Principal Member of Technical Staff on Oracle Health's Clinical Digital Assistant team at [Oracle](https://oracle.com) and some other personal apps projects.
+- 👨🏼‍💻 I'm currently working as a Principal Application Software Engineer on the Oracle Health's Clinical AI Agent team at [Oracle](https://oracle.com) and some other personal apps projects.
 - 🎓 I recently obtained my M.S. in Computer Science from [UCCS](https://uccs.edu) and I'm currently pursuing my Ph.D. in Computer Science there too.
 - 💾 My recent past work experiences were at [NeoTreks](https://neotreks.com) and [Cacira](https://cacira.com).
 - 🌱 I’m currently learning everything I can! 🤣
