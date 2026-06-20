@@ -9,7 +9,7 @@
 
 ## I'm a software engineer, computer scientist, researcher, geek, and a [spiritist](https://www.spiritist.us/spiritism)!
 - 👨🏼‍💻 I'm currently working as a Principal Application Software Engineer on the Oracle Health's Clinical AI Agent team at [Oracle](https://oracle.com) and some other personal apps projects.
-- 🎓 I recently obtained my M.S. in Computer Science from [UCCS](https://uccs.edu) and I'm currently pursuing my Ph.D. in Computer Science there too.
+- 🎓 I recently obtained my M.S. in Computer Science from [UCCS](https://uccs.edu) and I'm currently pursuing a Ph.D. in Computer Science there.
 - 💾 My recent past work experiences were at [NeoTreks](https://neotreks.com) and [Cacira](https://cacira.com).
 - 🌱 I’m currently learning everything I can! 🤣
 - 👯 I’m looking to collaborate on mobile apps development.
