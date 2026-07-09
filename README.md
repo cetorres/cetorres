@@ -54,8 +54,8 @@
 
 ## Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cetorres&layout=pie)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cetorres&show_icons=true&rank_icon=percentile&show=prs_merged,discussions_started,prs_merged_percentage)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=cetorres&layout=pie)
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=cetorres&show_icons=true&rank_icon=percentile&show=prs_merged,discussions_started,prs_merged_percentage)
 
 ## Connect with me
 
