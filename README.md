@@ -55,7 +55,8 @@
 
 ## Stats
 
-<a href="https://gitfut.com/cetorres" title="My GitFut card" target="_blank"><img src="https://gitfut.com/cetorres.png" alt="My GitFut card" width="300"></a>
+<!--<a href="https://gitfut.com/cetorres" title="My GitFut card" target="_blank"><img src="https://gitfut.com/cetorres.png" alt="My GitFut card" width="300"></a>-->
+<a href="https://gitfut.com/cetorres" title="My GitFut card" target="_blank"><img src="cetorres-gitfut.png" alt="My GitFut card" width="300"></a>
 <br/>
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=cetorres&layout=pie&theme=transparent)
 ![GitHub stats](https://github-stats-extended.vercel.app/api?username=cetorres&show_icons=true&theme=transparent&rank_icon=percentile&show=prs_merged,discussions_started,prs_merged_percentage)
