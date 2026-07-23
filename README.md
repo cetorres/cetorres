@@ -31,6 +31,7 @@
 
 | Project | Description | Stack |
 | --- | --- | --- |
+| [notes-app-pocketbase](https://github.com/cetorres/notes-app-pocketbase) | A full stack Notes app that uses PocketBase as the backend and a pure JavaScript frontend. | HTML, JS, CSS, PocketBase |
 | [ai-buddy](https://github.com/cetorres/ai-buddy) | A terminal command in Go that is an AI tool to help solving problems using prompt engineering from a set of crowdsourced AI prompts. | Go, AI APIs, Ollama |
 | [swiftbar-stock-portfolio](https://github.com/cetorres/swiftbar-stock-portfolio) | A SwiftBar plugin written in Python that displays your stock portfolio directly in the macOS menu bar using real-time data from Yahoo Finance. | Python, Swiftbar |
 | [microsoft-careers-application-new-filters](https://github.com/cetorres/microsoft-careers-application-new-filters) | Adds new filters for applications on different status to the candidate's Microsoft careers applications page. | JavaScript, Chrome extension |
